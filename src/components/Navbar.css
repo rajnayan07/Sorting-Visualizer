@@ -1,0 +1,32 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #685050;
+    padding: 10px;
+    margin-left: 10px;
+    padding: 5px 10px;
+    
+}
+.Navbar-link
+{
+    display: flex;
+    list-style: none;
+   
+   
+}
+.Navbar img {
+    height: 60px;
+    width: auto;
+}
+.Navbar-link a {
+    color: #493434;
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 5px 10px;
+    color:white;
+}
+.Navbar-link a:hover {
+    background-color: #947777;
+    border-radius: 5px;
+}

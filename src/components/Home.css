@@ -1,0 +1,25 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home-element
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 30px;
+}
+a{
+    
+    color: #493434;
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+a:hover {
+    background-color: #947777;
+    border-radius: 5px;
+}

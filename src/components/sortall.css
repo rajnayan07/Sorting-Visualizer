@@ -1,0 +1,23 @@
+.merge-algo  {
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    height: 111px;
+  }
+  .second-para
+  {
+    height: 10px;
+  }
+ 
+ div{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
